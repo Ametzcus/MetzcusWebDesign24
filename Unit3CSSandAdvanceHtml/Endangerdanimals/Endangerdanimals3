@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endangered Animals</title>
+    <style>
+        body {
+            background-color: #FFD1AA;
+            font-size: 18px;
+        }
+        h1 {
+            color: #003333;
+        }
+        h2 {
+            color: #162955;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .scientific-name {
+            font-style: italic;
+        }
+        .endangered {
+            color: red;
+        }
+        .threatened {
+            color: rgb(231, 75, 19);
+        }
+        .animal-image {
+            max-width: 100%; 
+            height: auto;
+            border-width: 3px; 
+            border-style: solid; 
+        }
+        #bison-image {
+            border-style: double; 
+        }
+        #condor-image {
+            border-style: dotted; 
+        }
+        #panther-image {
+            border-style: dashed; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Endangered Animals</h1>
+
+    <h2>American Bison</h2>
+    <ul>
+        <li><strong class="scientific-name">Scientific Name:</strong> Bison bison</li>
+        <li><strong>Where it lives:</strong> North America (primarily in the United States)</li>
+        <li class="endangered"><strong>Status:</strong> Endangered</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/American_Bison_K8771-1.jpg/440px-American_Bison_K8771-1.jpg" alt="American Bison" class="animal-image" id="bison-image">
+    
+    <h2>California Condor</h2>
+    <ul>
+        <li><strong class="scientific-name">Scientific Name:</strong> Gymnogyps californianus</li>
+        <li><strong>Where it lives:</strong> Western United States, Baja California in Mexico</li>
+        <li class="endangered"><strong>Status:</strong> Endangered</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/California_Condor_by_Greg_Goldsmith.jpg/440px-California_Condor_by_Greg_Goldsmith.jpg" alt="California Condor" class="animal-image" id="condor-image">
+    
+    <h2>Florida Panther</h2>
+    <ul>
+        <li><strong class="scientific-name">Scientific Name:</strong> Puma concolor coryi</li>
+        <li><strong>Where it lives:</strong> Southern Florida, USA</li>
+        <li class="threatened"><strong>Status:</strong> Threatened</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Florida_Panther_1.jpg/440px-Florida_Panther_1.jpg" alt="Florida Panther" class="animal-image" id="panther-image">
+</body>
+</html>

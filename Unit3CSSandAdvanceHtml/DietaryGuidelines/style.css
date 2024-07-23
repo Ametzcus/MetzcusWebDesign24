@@ -1,0 +1,44 @@
+#male .active{
+    background-color:#a2662a;
+}
+
+
+th{
+    background-color: SteelBlue;
+    color:white;
+}
+
+#male .active {
+    background-color: #a2662a;
+}
+
+
+#female .active {
+    background-color: SeaGreen;
+}
+
+#female .inactive {
+    background-color: MediumAquamarine;
+}
+
+#male .inactive {
+    background-color: Peru;
+}
+
+
+th {
+    background-color: SteelBlue;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center
+}

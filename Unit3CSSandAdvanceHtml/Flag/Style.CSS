@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: LightSkyBlue;
+    text-align: center;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.rectangle {
+    width: 800px;
+    height: 150px;
+}
+
+.red {
+    background-color: #B31217; /* Red color of the Netherlands flag */
+}
+
+.white {
+    background-color: #FFFFFF; /* White color of the Netherlands flag */
+}
+
+.blue {
+    background-color: #21468B; /* Blue color of the Netherlands flag */
+}

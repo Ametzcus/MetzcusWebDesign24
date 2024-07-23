@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Endangered Animals</title>
+    <style>
+        body {
+            background-color: #FFD1AA;
+            font-size: 18px;
+        }
+        h1 {
+            color: #003333;
+        }
+        h2 {
+            color: #162955;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Endangered Animals</h1>
+
+    <h2>American Bison</h2>
+    <ul>
+        <li><strong>Scientific Name:</strong> Bison bison</li>
+        <li><strong>Where it lives:</strong> North America (primarily in the United States)</li>
+        <li><strong>Status:</strong> Endangered</li>
+    </ul>
+
+    <h2>California Condor</h2>
+    <ul>
+        <li><strong>Scientific Name:</strong> Gymnogyps californianus</li>
+        <li><strong>Where it lives:</strong> Western United States, Baja California in Mexico</li>
+        <li><strong>Status:</strong> Endangered</li>
+    </ul>
+
+    <h2>Florida Panther</h2>
+    <ul>
+        <li><strong>Scientific Name:</strong> Puma concolor coryi</li>
+        <li><strong>Where it lives:</strong> Southern Florida, USA</li>
+        <li><strong>Status:</strong> Threatened</li>
+    </ul>
+
+</body>
+</html>

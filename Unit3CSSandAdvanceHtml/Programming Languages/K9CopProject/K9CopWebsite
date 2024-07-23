@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>K9 Police Officer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <h1>K9 Police Officer</h1>
+    <p>K9 Police Officers work with specially trained dogs to assist law enforcement in various tasks such as detection, tracking, and apprehension.</p>
+    
+    <h2>Industry and General Area</h2>
+    <p>K9 Police Officers operate within the law enforcement and public safety industry.</p>
+    
+    <p>I am interested in becoming a K9 Police Officer because of my passion for animals and my desire to serve and protect the community.</p>
+    
+    <a href="jobinfo.html">More Information</a>
+
+</body>
+<section>
+    <h2>Photos of K9 Cops</h2>
+    <div class="photo-gallery">
+        <img src="images/k9-cop-1.jpg" alt="K9 Cop 1">
+        <img src="images/k9-cop-2.jpg" alt="K9 Cop 2">
+        <img src="images/k9-cop-3.jpg" alt="K9 Cop 3">
+    </div>
+</section>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="-8">
+    <title>K9 Police Officer - Job Information</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>K9 Police Officer</h1>
+    
+    <h3>Description</h3>
+    <p>A K9 Police Officer works alongside specially trained dogs to enhance law enforcement operations, including search and rescue missions, drug detection, and suspect apprehension.</p>
+    
+    <h3>Average Salary</h3>
+    <p>The average salary for a K9 Police Officer varies depending on location and experience, typically ranging from $40,000 to $80,000 annually.</p>
+    
+    <h3>Employers</h3>
+    <p>K9 Police Officers are employed by city police departments, county sheriff's offices, federal agencies like the FBI, and various other law enforcement agencies.</p>
+    
+    <h3>Related Careers</h3>
+    <p>Related careers include Police Officer, Canine Trainer, Animal Control Officer, and Search and Rescue Specialist.</p>
+    
+    <a href="index.html">Home</a>
+
+</body>
+</html>
+<footer>
+    <p>Learn more about becoming a K9 Police Officer by exploring <a href="jobinfo.html">more information</a>.</p>
+</footer>
