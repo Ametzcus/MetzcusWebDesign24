@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Pollution and Its Impact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Air Pollution and Its Impact</h1>
+        <nav>
+            <ul>
+                <li><a href="#overview">Overview</a></li>
+                <li><a href="#causes">Causes</a></li>
+                <li><a href="#effects">Effects</a></li>
+                <li><a href="#solutions">Solutions</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="overview">
+            <h2>Overview</h2>
+            <p>Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere.
+
+                Household combustion devices, motor vehicles, industrial facilities and forest fires are common sources of air pollution. Pollutants of major public health concern. Outdoor and indoor air pollution cause respiratory and other diseases and are important sources of morbidity and mortality. </p>
+            <img src="images/air_pollution.jpg" alt="Air Pollution">
+        </section>
+        
+        <section id="causes">
+            <h2>Causes of Air Pollution</h2>
+            <p>Discuss the main sources of air pollution.</p>
+            <ul>
+                <li>Vehicle emissions</li>
+                <li>Industrial activities</li>
+                <li>Agricultural practices</li>
+                <li>Household activities</li>
+            </ul>
+        </section>
+        
+        <section id="effects">
+            <h2>Effects of Air Pollution</h2>
+            <p>Describe the impact of air pollution on environment and health.</p>
+            <ul>
+                <li>Global warming</li>
+                <li>Respiratory diseases</li>
+                <li>Damage to ecosystems</li>
+            </ul>
+        </section>
+        
+        <section id="solutions">
+            <h2>Solutions to Air Pollution</h2>
+            <p>Provide actionable steps to reduce air pollution.</p>
+            <ol>
+                <li>Use of renewable energy</li>
+                <li>Promotion of public transportation</li>
+                <li>Implementation of stricter emissions regulations</li>
+            </ol>
+        </section>
+    </main>
+    
+    <footer>
+        <p> 2024 Air Pollution Project</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sources</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Sources</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Back to Main</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Sources of Information</h2>
+            <p>This project gathers information from reputable sources. Below are the main sources used:</p>
+            <ul>
+                <li><a href="https://www.who.int/health-topics/air-pollution#tab=tab_1" target="_blank">World Health Organization (WHO) - Air Pollution</a></li>
+                <li><a href="https://www.epa.gov/air-pollution-transportation" target="_blank">US Environmental Protection Agency (EPA) - Air Pollution from Transportation</a></li>
+                <li><a href="https://www.nrdc.org/issues/air-pollution" target="_blank">Natural Resources Defense Council (NRDC) - Air Pollution Overview</a></li>
+                <li><a href="https://www.lung.org/clean-air/outdoors/air-pollution" target="_blank">American Lung Association - Air Pollution and Lung Health</a></li>
+                <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079821/" target="_blank">National Center for Biotechnology Information (NCBI) - Health Effects of Air Pollution</a></li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p> 2024 Air Pollution Project</p>
+    </footer>
+</body>
+</html>
